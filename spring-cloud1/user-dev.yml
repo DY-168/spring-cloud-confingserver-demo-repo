@@ -79,4 +79,6 @@ eureka:
     service-url:
       # 把 eureka 集群中的所有 url 都填写了进来
       defaultZone: http://EurekaServerDemoA:8761/eureka,http://EurekaServerDemoB:8762/eureka,http://EurekaServerDemoC:8763/eureka
+   
+ mysql: 123
 
